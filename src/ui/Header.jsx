@@ -28,7 +28,7 @@ function Header() {
   }, [handleResize]);
 
   return (
-    <header className="sticky left-0 top-0 z-50 w-full border-stone-900 bg-white text-base lg:text-xl">
+    <header className="sticky left-0 top-0 z-50 w-full border-stone-900 bg-white text-base">
       <nav className="flex items-center justify-between px-4 py-3 shadow-sm shadow-stone-300 md:px-6 md:py-4">
         <a
           className="block font-semibold tracking-widest md:mr-auto"

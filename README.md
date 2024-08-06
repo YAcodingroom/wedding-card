@@ -27,7 +27,7 @@ npm run dev
 
 ## Links
 
-- Live Site URL: [live site URL here]()
+- Live Site URL: [live site URL here](https://yalstudio-wedding-invitation.netlify.app/)
 
 ## Author
 
